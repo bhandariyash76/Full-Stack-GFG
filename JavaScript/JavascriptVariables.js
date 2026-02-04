@@ -12,5 +12,5 @@ console.log(text)
 
 const year = 2004
 console.log(year)
-year = 3
+//year = 3
 console.log(year)
